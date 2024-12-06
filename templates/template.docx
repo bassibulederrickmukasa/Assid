@@ -1,0 +1,10 @@
+Date: ${date}
+Carry Forward Small Box: ${carry_forward_small_box}
+Carry Forward Big Box: ${carry_forward_big_box}
+Packing Small: ${packing_small}
+Packing Big: ${packing_big}
+Supply Wilber: ${supply_wilber}
+Balance Stock Small: ${bal_stock_small}
+Balance Stock Big: ${bal_stock_big}
+Payment: ${payment}
+Balance Payment: ${bal_payment}

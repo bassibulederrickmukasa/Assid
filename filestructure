@@ -1,0 +1,31 @@
+/inventory-system/
+│
+├── /admin/
+│   ├── dashboard.php
+│   ├── supplies.php
+│   ├── payments.php
+│   ├── reports.php
+│   ├── settings.php
+├── /user/
+│   ├── dashboard.php
+│   ├── supplies.php
+│   ├── payments.php
+├── /includes/
+│   ├── db.php
+│   ├── auth.php
+│   ├── header.php
+│   ├── sidebar.php
+├── /css/
+│   ├── styles.css
+├── /js/
+│   ├── main.js
+├── /api/
+│   ├── auth_api.php
+│   ├── supply_api.php
+│   ├── payment_api.php
+├── /logs/
+│   ├── logs.php
+├── index.php
+├── login.php
+├── logout.php
+├── register.php
